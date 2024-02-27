@@ -5,6 +5,8 @@ The linux so lightweight that it can fly
 This linux distro is based off Ubuntu LTS, but stripped down: almost every unneeded component has been removed in favour of flyness (lightness) and usability
 on older machines.
 
+<img src="https://github.com/flynux-linux/flynux/blob/main/Flynux.png?raw=true" alt="Flynux" width="50%" height="50%">
+
 ## Download and installation
 We offer 2 editions of Flynux:
 1. Flynux Live CD with installer: normal Flynux medium, uses GNOME and can be installed easly
